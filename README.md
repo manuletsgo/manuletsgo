@@ -10,7 +10,7 @@
 🌲 I've been working as QA Engineer and currently I'm learning and working on QA Automation with [Cypress](https://www.cypress.io/)\
 🔻 I already worked and I really like [Ruby](https://www.ruby-lang.org/pt/) ​​language\
 🎡 I'm Co-founder at [Loopz Company](https://www.loopz.com.br/)\
-🌵 In my free time I take care of my plants and watch series\
+🌵 In my free time I take care of my plants and watch series
 
 #### Do you need some help with QA and Automation?
 

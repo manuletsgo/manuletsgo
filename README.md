@@ -3,13 +3,12 @@
 <img src="northern-lights.gif" align="right" width="400"/>
 
 #### My name is Emanuele, but everyone calls me **Manu :)**
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&align=right&logo=instagram&logoColor=white)](https://www.instagram.com/manuletsgo/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-marques/)
 \
 \
 🌲 I've been working as QA Engineer and currently I'm learning and working with [Playwright](https://playwright.dev/)\
 🔮 I already worked and I really like [Ruby](https://www.ruby-lang.org/pt/) language\
-🎡 I'm Co-founder at [Loopz Company](https://www.loopz.com.br/)\
+🎨 I really like the design area too\
 🌵 In my free time I take care of my plants and watch series
 
 #### Do you need some help with QA and Automation?
@@ -21,6 +20,6 @@
 
 <div align="center">
   <a href="https://github.com/manuletsgo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuletsgo&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuletsgo&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manuletsgo&show_icons=true&count_private=true&line_height=30&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manuletsgo&layout=compact&theme=dark"/>
 </div>

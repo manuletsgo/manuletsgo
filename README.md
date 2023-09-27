@@ -5,7 +5,7 @@
 My name is Emanuele, but everyone calls me **Manu :)**
 \
 \
-📱 I've been working as QA Engineer for the last 4 years and currently I'm working with Mobile Automation with Appium and TS
+📱 I've been working as QA Engineer for the last 4 years and currently I'm working with Mobile Automation with Appium and TS\
 📚 The last year I developed at least 10 projects (web and API) with [Playwright](https://playwright.dev/)\
 🔮 I already worked and I really like [Ruby](https://www.ruby-lang.org/pt/) language\
 🎨 I really like the design area too\

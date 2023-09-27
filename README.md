@@ -3,7 +3,6 @@
 <img src="northern-lights.gif" align="right" width="400"/>
 
 My name is Emanuele, but everyone calls me *Manu :)*
-\
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-marques/)
 \
 \

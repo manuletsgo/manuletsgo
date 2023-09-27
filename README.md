@@ -2,8 +2,7 @@
 
 <img src="northern-lights.gif" align="right" width="400"/>
 
-My name is Emanuele, but everyone calls me *Manu :)*
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-marques/)
+My name is Emanuele, but everyone calls me **Manu :)**
 \
 \
 🌲 I've been working as QA Engineer and currently I'm learning and working with [Playwright](https://playwright.dev/)\
@@ -13,7 +12,7 @@ My name is Emanuele, but everyone calls me *Manu :)*
 
 #### Do you need some help with QA and Automation?
 
-[![Email Badge](https://img.shields.io/badge/Email-emanuele4dev@gmail.com-blueviolet)](mailto:emanuele4dev@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-@manuletsgo-blueviolet)](https://t.me/manuletsgo)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-marques/) [![Email Badge](https://img.shields.io/badge/Email-emanuele4dev@gmail.com-blueviolet)](mailto:emanuele4dev@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-@manuletsgo-blueviolet)](https://t.me/manuletsgo)
 
 
 ## My github stats
